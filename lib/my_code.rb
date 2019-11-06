@@ -3,8 +3,8 @@
 #map-like functions
 def map_to_negativize(source_array)
 
-map_to_negativize = -1*source_array
-en
+ source_array = -1*source_array
+end
 
 
 
