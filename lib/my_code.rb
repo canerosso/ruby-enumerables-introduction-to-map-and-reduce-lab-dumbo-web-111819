@@ -8,7 +8,7 @@ end
 
 
 
-#reduce-like
+
 def map(s)
   new = []
   i = 0
