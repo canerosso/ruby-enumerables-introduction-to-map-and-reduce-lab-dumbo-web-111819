@@ -2,11 +2,11 @@
 
 #map-like functions
 
-def map_to_negativize(s)
+def map_to_negativize(source_array)
   new = []
   i = 0
-  while i < s.length
-    new.push(yield(s[i]))
+  while i < source_array.length
+    new.push(yield(source_array[i]))
     i += 1
   end
   new
