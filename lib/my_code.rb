@@ -1,6 +1,8 @@
 # My Code here....
-def initialize
-    @my_something = []
-  end
+
+#map-like functions
+define 
 array = []
-map_to_negativize = 
+map_to_negativize = -1*array
+
+#reduce-like
