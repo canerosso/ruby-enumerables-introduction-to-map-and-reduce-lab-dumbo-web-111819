@@ -2,7 +2,7 @@
 
 #map-like functions
 
-def map(s)
+def map_to_negativize(s)
   new = []
   i = 0
   while i < s.length
