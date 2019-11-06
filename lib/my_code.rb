@@ -1,13 +1,6 @@
 # My Code here....
 
 #map-like functions
-def map_to_negativize(source_array)
-
- source_array = -1*source_array
-end
-
-
-
 
 def map(s)
   new = []
@@ -19,6 +12,8 @@ def map(s)
   new
 end
 
+
+#reduce-like
 def reduce(s, sp=nil)
   if sp
     accum = sp
